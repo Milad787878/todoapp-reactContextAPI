@@ -8,8 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "antd": "^4.8.2",
     "next": "10.0.1",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "uuid": "^8.3.1"
   }
 }
